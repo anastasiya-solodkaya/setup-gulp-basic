@@ -1,1 +1,1 @@
-# setup-gulp-basic
+# Basic setup for gulp web project
